@@ -15,6 +15,13 @@ A **Streamlit-based RAG (Retrieval-Augmented Generation)** application that allo
 
 ---
 
+## Screanshots
+
+![Screenshot 2025-04-05 170705](https://github.com/user-attachments/assets/cd1a9f7d-bd35-4b13-ab30-e8b461d7ea88)
+
+---
+
+
 ## 🧰 Tech Stack
 
 - **Frontend**: Streamlit
